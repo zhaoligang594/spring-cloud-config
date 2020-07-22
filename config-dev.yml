@@ -1,2 +1,2 @@
-spring:	
-  aaa: sss
+config:
+  info: "master brench version 1"
